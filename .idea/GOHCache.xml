@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GoORMHelperCache">
+    <option name="schemaMapping">
+      <map>
+        <entry key="Order">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../ecommerce-platform/order-service/internal/domain/order.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OrderHandler">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../ecommerce-platform/order-service/internal/interface/handler/order_handler.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Product">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../ecommerce-platform/inventory-service/internal/domain/product.go" />
+              <option value="file://$PROJECT_DIR$/../ecommerce-platform/order-service/internal/domain/order.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ProductHandler">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../ecommerce-platform/inventory-service/internal/interface/handler/product_handler.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="orderRepository">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../ecommerce-platform/order-service/internal/infrastructure/mongo/order_repository.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="orderUseCase">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../ecommerce-platform/order-service/internal/usecase/order_usecase.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="productRepository">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../ecommerce-platform/inventory-service/internal/infrastructure/mongo/product_repository.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="productUseCase">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../ecommerce-platform/inventory-service/internal/usecase/product_usecase.go" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="scannedPathMapping">
+      <map>
+        <entry key="file://$PROJECT_DIR$/../ecommerce-platform/api-gateway/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1744127900202" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../ecommerce-platform/inventory-service/cmd/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1744102024098" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../ecommerce-platform/inventory-service/internal/domain/product.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1744124935114" />
+              <option name="schema">
+                <list>
+                  <option value="Product" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../ecommerce-platform/inventory-service/internal/infrastructure/mongo/product_repository.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1744101615805" />
+              <option name="schema">
+                <list>
+                  <option value="productRepository" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../ecommerce-platform/inventory-service/internal/interface/handler/product_handler.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1744124850821" />
+              <option name="schema">
+                <list>
+                  <option value="ProductHandler" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../ecommerce-platform/inventory-service/internal/usecase/product_usecase.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1744101748193" />
+              <option name="schema">
+                <list>
+                  <option value="productUseCase" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../ecommerce-platform/order-service/cmd/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1744126614318" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../ecommerce-platform/order-service/internal/domain/order.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1744126054895" />
+              <option name="schema">
+                <list>
+                  <option value="Order" />
+                  <option value="Product" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../ecommerce-platform/order-service/internal/infrastructure/mongo/order_repository.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1744126302033" />
+              <option name="schema">
+                <list>
+                  <option value="orderRepository" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../ecommerce-platform/order-service/internal/interface/handler/order_handler.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1744126427393" />
+              <option name="schema">
+                <list>
+                  <option value="OrderHandler" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../ecommerce-platform/order-service/internal/usecase/order_usecase.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1744126301964" />
+              <option name="schema">
+                <list>
+                  <option value="orderUseCase" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="tableStructMapping">
+      <map>
+        <entry key="order" value="Order" />
+        <entry key="order_handler" value="OrderHandler" />
+        <entry key="order_repository" value="orderRepository" />
+        <entry key="order_use_case" value="orderUseCase" />
+        <entry key="product" value="Product" />
+        <entry key="product_handler" value="ProductHandler" />
+        <entry key="product_repository" value="productRepository" />
+        <entry key="product_use_case" value="productUseCase" />
+      </map>
+    </option>
+    <option name="lastTimeChecked" value="1744099946674" />
+  </component>
+</project>
