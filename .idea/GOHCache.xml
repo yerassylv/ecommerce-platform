@@ -67,7 +67,7 @@
         <entry key="file://$PROJECT_DIR$/../ecommerce-platform/api-gateway/main.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1744129882545" />
+              <option name="lastModified" value="1744131122577" />
             </ScannedPath>
           </value>
         </entry>
@@ -93,7 +93,7 @@
         <entry key="file://$PROJECT_DIR$/../ecommerce-platform/inventory-service/internal/infrastructure/mongo/product_repository.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1744101615805" />
+              <option name="lastModified" value="1744130003643" />
               <option name="schema">
                 <list>
                   <option value="productRepository" />
@@ -117,7 +117,7 @@
         <entry key="file://$PROJECT_DIR$/../ecommerce-platform/inventory-service/internal/usecase/product_usecase.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1744101748193" />
+              <option name="lastModified" value="1744130003718" />
               <option name="schema">
                 <list>
                   <option value="productUseCase" />
@@ -129,14 +129,14 @@
         <entry key="file://$PROJECT_DIR$/../ecommerce-platform/order-service/cmd/main.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1744126614318" />
+              <option name="lastModified" value="1744130003238" />
             </ScannedPath>
           </value>
         </entry>
         <entry key="file://$PROJECT_DIR$/../ecommerce-platform/order-service/internal/domain/order.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1744126054895" />
+              <option name="lastModified" value="1744130003448" />
               <option name="schema">
                 <list>
                   <option value="Order" />
@@ -149,7 +149,7 @@
         <entry key="file://$PROJECT_DIR$/../ecommerce-platform/order-service/internal/infrastructure/mongo/order_repository.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1744126302033" />
+              <option name="lastModified" value="1744130003207" />
               <option name="schema">
                 <list>
                   <option value="orderRepository" />
@@ -161,7 +161,7 @@
         <entry key="file://$PROJECT_DIR$/../ecommerce-platform/order-service/internal/interface/handler/order_handler.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1744126427393" />
+              <option name="lastModified" value="1744130003303" />
               <option name="schema">
                 <list>
                   <option value="OrderHandler" />
@@ -173,7 +173,7 @@
         <entry key="file://$PROJECT_DIR$/../ecommerce-platform/order-service/internal/usecase/order_usecase.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1744126301964" />
+              <option name="lastModified" value="1744130003535" />
               <option name="schema">
                 <list>
                   <option value="orderUseCase" />

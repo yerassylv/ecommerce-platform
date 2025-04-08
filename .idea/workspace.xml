@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3abba742-32f4-4ad9-8aff-6237bfbdd8a4" name="Changes" comment="completed">
+    <list default="true" id="3abba742-32f4-4ad9-8aff-6237bfbdd8a4" name="Changes" comment="ready">
+      <change beforePath="$PROJECT_DIR$/.idea/GOHCache.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GOHCache.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ecommerce-platform/api-gateway/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../ecommerce-platform/api-gateway/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,7 +102,8 @@
     <MESSAGE value="ASSIG" />
     <MESSAGE value="final" />
     <MESSAGE value="completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed" />
+    <MESSAGE value="ready" />
+    <option name="LAST_COMMIT_MESSAGE" value="ready" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
